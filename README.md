@@ -148,20 +148,24 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
