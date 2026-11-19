@@ -59,6 +59,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -76,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
