@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -39,6 +40,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
