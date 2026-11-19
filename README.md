@@ -44,11 +44,13 @@
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
