@@ -10,7 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0009-palindrome-number) |
-| [0012-integer-to-roman](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
@@ -38,7 +38,7 @@
 ## String
 |  |
 | ------- |
-| [0012-integer-to-roman](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -68,7 +68,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
-| [0012-integer-to-roman](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 ## Stack
 |  |
 | ------- |
