@@ -15,6 +15,7 @@
 | [0009-palindrome-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -66,12 +67,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +109,20 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
