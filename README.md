@@ -18,6 +18,7 @@
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -29,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -50,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -102,6 +105,7 @@
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
