@@ -96,6 +96,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0707-design-linked-list](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -150,6 +152,7 @@
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,15 +160,21 @@
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
