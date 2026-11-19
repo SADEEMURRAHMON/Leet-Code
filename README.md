@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
