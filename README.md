@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
