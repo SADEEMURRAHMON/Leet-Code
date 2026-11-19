@@ -34,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -81,6 +82,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
