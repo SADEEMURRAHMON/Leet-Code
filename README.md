@@ -77,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
@@ -135,4 +137,16 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
