@@ -18,6 +18,7 @@
 | [0009-palindrome-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
@@ -75,6 +77,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
