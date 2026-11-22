@@ -72,6 +72,7 @@
 | [0070-climbing-stairs](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -95,6 +96,7 @@
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
