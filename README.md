@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
@@ -93,6 +94,7 @@
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
@@ -164,6 +166,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0347-top-k-frequent-elements) |
