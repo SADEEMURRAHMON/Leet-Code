@@ -213,6 +213,7 @@
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -267,4 +269,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
