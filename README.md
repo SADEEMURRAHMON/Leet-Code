@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0206-reverse-linked-list) |
@@ -168,6 +169,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -230,6 +232,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -247,4 +250,12 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0226-invert-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
