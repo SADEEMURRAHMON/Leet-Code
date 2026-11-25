@@ -43,6 +43,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -135,6 +138,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -146,6 +150,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -258,4 +263,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
