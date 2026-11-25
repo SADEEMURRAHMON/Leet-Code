@@ -213,6 +213,7 @@
 | [0098-validate-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Merge Sort
 |  |
@@ -272,9 +274,19 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
