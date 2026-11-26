@@ -28,6 +28,7 @@
 | [0342-power-of-four](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
