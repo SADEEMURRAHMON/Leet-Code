@@ -122,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
