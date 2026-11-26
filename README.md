@@ -57,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0268-missing-number) |
