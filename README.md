@@ -68,6 +68,7 @@
 | [0013-roman-to-integer](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -156,6 +157,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0633-sum-of-square-numbers) |
