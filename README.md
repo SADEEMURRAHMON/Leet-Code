@@ -76,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -112,6 +113,7 @@
 | [0035-search-insert-position](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0120-triangle) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0785-is-graph-bipartite) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/SADEEMURRAHMON/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
